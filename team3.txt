@@ -1,3 +1,6 @@
 ipod
 ipod touch
+<<<<<<< HEAD
 itunes
+internet browser safari
+
